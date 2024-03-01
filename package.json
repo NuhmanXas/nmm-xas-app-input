@@ -1,0 +1,39 @@
+{
+  "name": "nmm-xas-app-input-react",
+  "version": "1.0.0",
+  "description": "A customizable and reusable input component for React applications, featuring support for various input types, integrated validation messages, and optional icons.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuhmanXas/nmm-xas-app-input.git"
+  },
+  "keywords": [
+    "react",
+    "input",
+    "component",
+    "ui",
+    "styled-components",
+    "reusable",
+    "customizable"
+  ],
+  "author": "NMM.Nuhman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NuhmanXas/nmm-xas-app-input/issues"
+  },
+  "homepage": "https://github.com/NuhmanXas/nmm-xas-app-input#readme",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "styled-components": "^5.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-cli": "^6.26.0"
+  }
+}
